@@ -9,7 +9,7 @@
 <h3> 🛠 &nbsp; Skills  <h3>
 
 - :space_invader:&nbsp;
-  ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+  ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=red)
   ![C++](https://img.shields.io/badge/C++-239120?style=for-the-badge&logo=c#&logoColor=red) 
   ![Java](https://img.shields.io/badge/Java-316192?style=for-the-badge&logo=java&logoColor=white) 
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
