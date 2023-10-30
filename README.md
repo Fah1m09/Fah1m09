@@ -1,10 +1,10 @@
 Welcome! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 =============================================================================================================================================
 
-Web Developer || Pc Enthusiast || React
+Web Developer || Pc Enthusiast || React || Vue
 ----------------------------------------
 
-I'm currently working as a software developer in an international company where I work in React and Dot net.
+I'm currently working as a Software developer. I have good experience in React, Vue, Typescript, Javascript
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [Fah1m09](http://fah1m09.github.io)
